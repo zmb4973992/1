@@ -1,8 +1,6 @@
 # -*- coding: UTF-8 -*-
 # 运行环境：py3.6
-
-
-# 爬取图片地址上的单张图片：
+# 爬取图片地址上的单张图片~：
 import urllib.request
 
 def get_image(url):
